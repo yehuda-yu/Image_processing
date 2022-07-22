@@ -20,4 +20,4 @@ Link to Colab Notebook: https://tinyurl.com/AC-ON-OFF-HUJI
 4. CSV to df, and create plotly graph.
 5. Send email with smtp.
 
-**By:** Yedidya Harris, Yehuda Yungstein
+**By:** [Yedidya Harris](https://github.com/deedeeharris), Yehuda Yungstein
