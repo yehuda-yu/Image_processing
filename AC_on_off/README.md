@@ -1,4 +1,4 @@
-AC on/off notification
+# AC on/off notification
 Introduction:
 
 As part of a study of the effect of green walls on interior spaces, our air conditioners in the laboratory are constantly on at 25 degrees Celsius. But there are times when the air conditioners stop working. The AC status should be documented, since it affects the activity of the plants, and other results, etc. We wrote a code that saves an image from a USB camera that sees the air conditioners and is connected to our server. The code identifies according to the vents of the air conditioner whether it is open or closed, that is, on or off. Accordingly, the status of the air conditioner is recorded with the exact time in a database, an updated graph is created, and a notification email is sent if there has been a change since the last check.
