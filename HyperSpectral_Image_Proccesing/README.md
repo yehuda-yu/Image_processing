@@ -1,4 +1,4 @@
-# **HyperSpectral Image analysis**
+# **HyperSpectral Image Proccesing**
 
 Here i'm procces some hyperspectral data. You can find here information about:
 
