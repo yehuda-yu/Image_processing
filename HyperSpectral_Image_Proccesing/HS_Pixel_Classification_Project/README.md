@@ -16,3 +16,5 @@ After creating a classification model at a sufficient level, I can run the model
 3. Build the models and evalute
 
 4. Apply the model on new images
+
+5. Reduce the number of bands and try to classify the species by RGB+NIR bands. 
